@@ -1,6 +1,6 @@
 # Hierarchical Emotion Classifier for Japanese Text
 
-This repository contains the `Final_combiningmodelstohierarch.ipynb`, a Python notebook that showcases the development of a hierarchical emotion classifier using Bert models. The project focuses on analyzing Japanese text to determine emotional sentiments and intensities.
+This repository contains the `Final_combiningmodelstohierarch.ipynb`, a Python notebook that demonstrates the development of a hierarchical emotion classifier using Bert models. 
 
 ## Library Installation and Data Acquisition
 
@@ -38,4 +38,4 @@ This repository contains the `Final_combiningmodelstohierarch.ipynb`, a Python n
 
 ## Hierarchical Classification Strategy
 
-- The classifier operates hierarchically, starting from broad distinctions (neutral vs. emotional) and drilling down into more nuanced emotional states. This method effectively handles the complexity of human emotions in textual data.
+- The classifier operates hierarchically, starting from broad distinctions (neutral vs. emotional) and drilling down into finer emotional states. This method effectively handles the complexity of human emotions in textual data.
